@@ -4,29 +4,37 @@ date: 2025-03-31
 draft: false
 ---
 
-**Privacy Policy**
+**Patakaran sa Privacy**
 
-Last updated: [March 2025]
+Huling update: [Marso 2025]
 
-This blog is operated by BaoLiba. We respect your privacy and are committed to keeping this site simple and transparent.
+Ang blog na ito ay pinapatakbo ng BaoLiba. Iginagalang namin ang iyong privacy at nananatiling simple at transparent ang site na ito.
 
-**1. What we collect**
+---
 
-We do not collect personal data directly.  
-We do not offer login, comment, or registration features.
+**1. Ano ang aming kinokolekta**
 
-However, we may use third-party services such as Google Analytics to help understand traffic behavior. These services may use cookies or anonymized IP tracking.
+Hindi kami direktang nangongolekta ng personal na impormasyon.  
+Wala kaming login, comment, o registration feature.
+
+Gayunpaman, maaaring gumamit kami ng third-party services tulad ng Google Analytics upang maunawaan ang traffic behavior. Maaaring gumamit ang mga serbisyong ito ng cookies o anonymized IP tracking.
+
+---
 
 **2. Cookies**
 
-Some pages may use cookies via third-party plugins or embedded media (e.g., videos, maps).  
-You can disable cookies in your browser settings.
+Ang ilang mga pahina ay maaaring gumamit ng cookies sa pamamagitan ng third-party plugins o embedded media (hal. video, mapa).  
+Maaari mong i-disable ang cookies sa settings ng iyong browser.
 
-**3. External links**
+---
 
-Our site may contain links to other websites. We are not responsible for their privacy practices.
+**3. Mga Panlabas na Link**
 
-**4. Contact**
+Maaaring may mga link sa ibang website sa aming site. Hindi kami responsable sa kanilang mga patakaran sa privacy.
 
-If you have any questions, feel free to contact us at: info@baoliba.com
+---
 
+**4. Makipag-ugnayan sa Amin**
+
+Kung may katanungan ka, huwag mag-atubiling makipag-ugnayan sa amin sa:  
+**info@baoliba.com**
