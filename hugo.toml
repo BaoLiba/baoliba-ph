@@ -1,0 +1,101 @@
+# =========================
+# ✅ 每个站点都必须定制的字段（请根据语言/国家修改）
+# =========================
+baseURL = "https://baoliba.ph/"
+languageCode = "tl"
+languageName = "Tagalog"
+defaultContentLanguage = "tl"
+title = "BaoLiba 🇵🇭"
+theme = "LoveIt"
+
+[params]
+
+  # ✅ SEO 设置
+  title = "BaoLiba - Tinutulungan ang mga Pilipinong influencer at brand na kumonekta sa mundo"
+  description = "Ang BaoLiba ay isang cross-border influencer platform na tumutulong sa mga global brand na kumonekta sa mga lokal na creator sa 50+ bansa."
+  keywords = ["influencer marketing", "BaoLiba", "Pilipinong creator", "cross-border ecommerce", "brand collaboration"]
+
+  # ✅ 顶部 Logo
+  [params.header.title]
+    name = "BaoLiba - Tinutulungan ang mga Pilipinong influencer at brand na kumonekta sa mundo"
+    pre = ""
+    post = ""
+    typeit = false
+
+  # ✅ 应用外观（PWA）
+  [params.app]
+    title = "BaoLiba 🇵🇭"
+    svgFavicon = "favicon.png"
+    noFavicon = false
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
+
+  # ✅ 样式控制
+  defaultTheme = "light"
+  disableThemeSwitch = true
+  customCSS = ["css/extended.css"]
+
+  # ✅ 站点图标
+  [params.assets]
+    favicon = "/favicon.png"
+
+  # ✅ 页脚内容
+  [params.footer]
+    enable = true
+    hugo = false
+    author = false
+    copyright = false
+    since = 2025
+    custom = '''
+    <div class="footer-links">
+      <a href="https://baoliba.com/" target="_blank" rel="noopener">BaoLiba</a> |
+      <a href="/about/">Tungkol sa Amin</a> |
+      <a href="/privacy-policy/">Patakaran sa Privacy</a> |
+      <a href="/terms-of-use/">Mga Tuntunin ng Paggamit</a> |
+      <a href="/contact-us/">Makipag-ugnayan sa Amin</a>
+    </div>
+    '''
+
+  # ✅ 页面设置
+  [params.page]
+    author = false
+    layout = "post"
+
+# =========================
+# ✅ 通用配置
+# =========================
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+canonifyURLs = true
+uglyURLs = false
+
+[markup.highlight]
+  noClasses = false
+
+[frontmatter]
+  format = "yaml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Mga Artikulo"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Mga Tag"
+    url = "/tags/"
+    weight = 2
+
+
+
