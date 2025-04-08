@@ -1,80 +1,77 @@
 ---
-title: "About Us"
+title: "Tungkol sa Amin"
 date: 2025-03-31
 draft: false
 ---
 
-# 🌟 Welcome to BaoLiba
+# 🌟 Maligayang Pagdating sa BaoLiba
 
-Hi! I’m **MaTiTie**, founder of BaoLiba — a global influencer marketing platform designed to make cross-border collaborations **safer, faster, and easier** for brands and creators worldwide.
-
----
-
-# 🚀 Why BaoLiba?
-
-In the era of digital marketing, working across borders is full of opportunities — but also challenges:
-
-- 📌 **Brands** struggle to verify influencers and enforce agreements  
-- 📌 **Creators** face delayed payments and unclear contracts
-
-**BaoLiba bridges that trust gap.** We offer a secure, transparent, and results-focused platform where brands and creators collaborate confidently.
+Kumusta! Ako si **MaTiTie**, ang tagapagtatag ng BaoLiba — isang pandaigdigang influencer marketing platform na idinisenyo para gawing **mas ligtas, mas mabilis, at mas madali** ang cross-border collaborations sa pagitan ng mga brand at content creator.
 
 ---
 
-# 🔒 What BaoLiba Offers
+# 🚀 Bakit BaoLiba?
 
-✅ **Safe & Verified Transactions**  
-Every project is backed by contracts, dispute protection, and on-time payments.
+Sa panahon ng digital marketing, maraming oportunidad sa cross-border partnerships — pero may mga hamon din:
 
-✅ **A Global Network of Brands & Influencers** 🌍  
-We connect creators and companies from over 50 countries — no matter your market, we’ve got trusted local partners.
+- 📌 **Ang mga brand** ay hirap sa pag-verify ng influencer at pagpapatupad ng kasunduan  
+- 📌 **Ang mga creator** ay nakakaranas ng delay sa bayad at malabong kontrata  
 
-✅ **Hassle-Free Cross-Border Payments** 💳  
-No hidden fees. No currency chaos. We handle the heavy lifting so you don’t have to.
-
-✅ **A Thriving Creator Community** 🤝  
-BaoLiba is more than a platform. It’s a global community to learn, grow, and win together.
+**Ang BaoLiba ang tulay sa tiwalang iyon.** Isang ligtas, malinaw, at resulta-oriented na platform kung saan nagkakaroon ng kumpiyansa ang brand at creator sa bawat proyekto.
 
 ---
 
-# 🌏 Our Vision: A Borderless Influencer Marketing Ecosystem
+# 🔒 Ano'ng Iniaalok ng BaoLiba?
 
-We believe in **openness, transparency, and collaboration**.
+✅ **Ligtas at Verified na Transaksyon**  
+May kontrata bawat proyekto, may dispute protection, at siguradong bayad sa tamang oras.
 
-BaoLiba breaks down barriers for:
+✅ **Global Network ng mga Brand at Influencer** 🌍  
+Mahigit 50 bansa ang sakop namin — saan ka man sa mundo, may local partner kang maaasahan.
 
-- 🚀 Startups going global  
-- 🏢 Enterprises scaling digital campaigns  
-- 🎥 Creators expanding internationally  
+✅ **Walang Hassle na Cross-Border Payment** 💳  
+Walang tagong charges. Walang gulo sa currency. Kami ang bahala sa mahirap na parte.
 
----
-
-# 🎯 Our Mission
-
-- ✅ Simplify and secure global brand-creator partnerships  
-- ✅ Empower businesses and influencers to grow internationally  
-- ✅ Build long-term, trust-based collaborations
-
-We're constantly evolving our tools and services to make influencer marketing more **fair, impactful, and scalable**.
+✅ **Lumalagong Creator Community** 🤝  
+Hindi lang ito platform — komunidad ito ng mga creator na sabay-sabay lumalago.
 
 ---
 
-# 📊 The Future of Influencer Marketing
+# 🌏 Ang Aming Pananaw: Borderless Influencer Marketing
 
-As eCommerce and social platforms grow, influencer marketing is no longer optional — it’s **essential** for global success.
+Naniniwala kami sa **bukas na komunikasyon, transparency, at tunay na kooperasyon.**
 
-Whether you’re a local brand or a creator ready to go international, **BaoLiba is your shortcut to real influence that converts.**
+Ang BaoLiba ay para sa:
 
----
-
-# 🤝 Join the BaoLiba Movement
-
-Are you a brand, agency, or content creator?
-
-**This is your sign.**  
-Let’s connect, collaborate, and create something global together.
-
+- 🚀 Startups na gustong mag-expand globally  
+- 🏢 Mga kumpanya na lumalaki ang digital campaigns  
+- 🎥 Mga creator na handang lumabas sa lokal na merkado  
 
 ---
 
-_“In this business, creators build the trust. We just help brands scale it.”_ ✨
+# 🎯 Aming Misyon
+
+- ✅ Gawing simple at secure ang global partnerships  
+- ✅ Suportahan ang mga negosyo at influencer sa kanilang paglago  
+- ✅ Bumuo ng pangmatagalang relasyon na may tiwala at respeto  
+
+Tuloy-tuloy naming pinapahusay ang aming tools at serbisyo para gawing mas **makabuluhan, patas, at scalable** ang influencer marketing.
+
+---
+
+# 📊 Ang Kinabukasan ng Influencer Marketing
+
+Habang lumalawak ang eCommerce at social media, ang influencer marketing ay hindi na optional — ito na ang **susunod na hakbang** para sa tagumpay sa global market.
+
+Kung isa kang brand o content creator na gustong mag-level up, **ang BaoLiba ang shortcut mo sa tunay na impact.**
+
+---
+
+# 🤝 Sumali sa BaoLiba Movement
+
+Ikaw ba ay brand, agency, o content creator?
+
+**Ito na ang senyales mo.**  
+Tara, mag-collab tayo at gumawa ng global impact, sama-sama!
+
+
