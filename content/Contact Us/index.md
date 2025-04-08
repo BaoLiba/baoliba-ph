@@ -4,18 +4,18 @@ date: 2025-03-31
 draft: false
 ---
 
-# Contact Us
+# Makipag-ugnayan sa Amin
 
-Thank you for visiting BaoLiba!
+Maraming salamat sa pagbisita sa BaoLiba!
 
-If you have any questions, business inquiries, partnership proposals, or just want to say hello — feel free to reach out. We’d love to hear from you.
+Kung mayroon kang mga katanungan, business inquiries, proposal para sa partnership, o gusto mo lang bumati — huwag kang mag-atubiling makipag-ugnayan. Masaya kaming marinig mula sa iyo.
 
 ---
 
-### 📍 Our Location  
-**BaoLiba** is proudly based in **Changsha, China**.
+### 📍 Lokasyon Namin  
+Ang **BaoLiba** ay nakabase sa **Changsha, Tsina**.
 
-**Office Address:**  
+**Address ng Opisina:**  
 Room B1, Xinchanghai Center,  
 Lugu, Yuelu District, Changsha City,  
 Hunan Province, China
@@ -25,20 +25,20 @@ Hunan Province, China
 ---
 
 ### 📧 Email  
-For all inquiries, please contact:  
+Para sa lahat ng uri ng inquiry, mangyaring makipag-ugnayan sa:  
 **info@baoliba.com**
 
-We typically respond within 1–2 business days.
+Karaniwan kaming sumasagot sa loob ng 1–2 working days.
 
 ---
 
-### 💬 Languages  
-We speak **English** and **Chinese**, and we work with content in over 12 languages.
+### 💬 Mga Wika  
+Kami ay nagsasalita ng **Ingles** at **Tsino**, at gumagawa ng content sa higit sa 12 iba't ibang wika.
 
 ---
 
-### 📢 Let’s Collaborate  
-Whether you're a brand, influencer, agency, or platform —  
-If you're interested in cross-border influencer marketing, localization, or content production, we're happy to connect.
+### 📢 Tara, Mag-collaborate!  
+Kung ikaw ay isang brand, influencer, agency, o platform —  
+Kung interesado ka sa cross-border influencer marketing, localization, o content production, bukas kami para sa ugnayan.
 
-Let’s grow globally, together.
+Tara, sabay tayong lumago sa global stage!
