@@ -1,7 +1,7 @@
 # =========================
 # ✅ 每个站点都必须定制的字段（请根据语言/国家修改）
 # =========================
-baseURL = "https://baoliba.ph/"
+baseURL = "/"
 languageCode = "tl"
 languageName = "Tagalog"
 defaultContentLanguage = "tl"
